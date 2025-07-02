@@ -6,3 +6,5 @@ spacy
 textblob
 nltk
 huggingface-hub
+beautifulsoup4
+lxml
